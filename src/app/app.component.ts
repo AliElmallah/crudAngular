@@ -54,6 +54,12 @@ constructor(){
     this.x = '';
     this.y = '';
     this.z = '';
+
+
+
+    
+
+
     this.display=false;
   }
 
